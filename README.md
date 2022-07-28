@@ -1,6 +1,7 @@
 # dynamic-schema-for-youtube-videos
 ***
 This plugin creates a Video Schema automatically for all youtube videos that you embed (in any way) to your Wordpress site
+***
 ===
 ## Table of Contents
 1. [How does it work?](#how-does-it-work)
