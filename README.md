@@ -6,7 +6,7 @@ This plugin creates a Video Schema automatically for all youtube videos that you
 ## Table of Contents
 1. [How does it work?](#how-does-it-work)
 2. [Technologies](#technologies)
-3. [Instructions](#description)
+3. [Instructions](#instructions)
 4. [Example of code](#example-of-code)
 5. [Score in Pagespeed](#score-in-pagespeed)
 6. [Installation](#installation)
